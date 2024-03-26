@@ -1,5 +1,6 @@
 <html>
 <body>
+<h2>New concept Pipeline</h2>
 <h2>Hello Chanikya </h2>
 <h2>Hello This is new Upadte </h2>
 <h1>Welcome to jenkins Deployment</h1>
