@@ -1,6 +1,6 @@
 <form action="action_page.php" style="max-width: 600px; margin: auto; padding: 20px; background-color: #ffffff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px; font-family: Arial, sans-serif; background-color: #f4f4f4;">
   <div class="container" style="padding: 20px;">
-    <h1 style="margin-top: 0; color: #333;">Register</h1>
+    <h1 style="margin-top: 0; color: #333;">Register Hello</h1>
     <p style="color: #555;">Please fill in this form to create an account.</p>
     <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
 
